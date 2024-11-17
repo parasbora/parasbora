@@ -15,5 +15,5 @@ On my GitHub, you'll find a variety of projects showcasing my skills in frontend
 Professional Experience
 LTI Mindtree: I've been a part of the LTI Mindtree team for over two years, where I've contributed to numerous projects, collaborating with cross-functional teams to create seamless user experiences.
 Contact
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. You can connect with me via email at parasborarm7@gmail.com or find me on [[LinkedIn profile]](https://www.linkedin.com/in/parasbora/).
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. You can connect with me via email at parasborarm7@gmail.com or find me on [[LinkedIn]](https://www.linkedin.com/in/parasbora/).
 
