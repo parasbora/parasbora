@@ -18,3 +18,5 @@ Professional Experience
 LTI Mindtree: I've been a part of the LTI Mindtree team for over two years, where I've contributed to numerous projects, 
 collaborating with cross-functional teams to create seamless user experiences.
 
+You can connect with me via email at parasborarm7@gmail.com or find me on [[LinkedIn]](https://www.linkedin.com/in/parasbora/).
+
